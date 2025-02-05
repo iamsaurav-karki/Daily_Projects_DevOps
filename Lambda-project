@@ -1,4 +1,4 @@
-# Implemented lambda functions to check the unused snapshots and delete it if it is not associated with volume to optimize the costs
+# Implemented lambda functions to check the unused snapshots and delete it if it is not associated with volume attached to ec2 instance to optimize the costs
 
 
 import boto3
